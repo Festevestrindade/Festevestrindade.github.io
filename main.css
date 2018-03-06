@@ -1,0 +1,65 @@
+
+      h1 {
+        font-size: 50px;
+        color: #000000;
+        margin: 0 0 15px 0;
+      }
+      h2 {
+        font-size: 30px;
+        color: #000000;
+        margin: 15px 0 15px;
+      }
+      h3 {
+        color: #333333;
+        margin: 20px 0 5px 0;
+        border-bottom: 1px solid #aaaaaa;
+        padding: 2px;
+      }
+      p {
+        font-size: 20px;
+        color: #444444;
+        margin:30px 0 10px 0;
+      }
+      a {
+        color: #440000;
+      }
+      ul {
+        padding: 0 0 0 30px;
+      }
+      li {
+        margin-bottom: 5px;
+      }
+      body {
+        padding: 15px;
+      }
+      ol {
+        padding: 0 0 0 20px;
+      }
+      .Perfil {
+       margin: 5px;
+      }
+      .British {
+        margin: 2px;
+        height: 150px;
+        width: 500px;
+      }
+      .Insti {
+        margin: 2px;
+        height: 200px;
+        width: 140px;
+      }
+      .Istec{
+        margin: 2px;
+        height: 150px;
+        width: 500px;
+      }
+      .language{
+        margin: 2px;
+        height:150px;
+        width:500px;
+      }
+      .minuscode{
+        margin: 2px;
+        height:150px;
+        width:150px;
+      }
