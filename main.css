@@ -1,5 +1,6 @@
 
       h1 {
+        text-align: center;
         font-size: 50px;
         color: #000000;
         margin: 0 0 15px 0;
@@ -7,21 +8,34 @@
       h2 {
         font-size: 30px;
         color: #000000;
+        border-bottom: 1px solid #aaaaaa;
         margin: 15px 0 15px;
       }
       h3 {
         color: #333333;
         margin: 20px 0 5px 0;
-        border-bottom: 1px solid #aaaaaa;
         padding: 2px;
       }
       p {
+        text-align: center;
+        width: 500px;
+        padding: 20px;
         font-size: 20px;
         color: #444444;
-        margin:30px 0 10px 0;
+        margin:30px auto 0 auto;
       }
       a {
+        display: block;
+        text-align: center;
         color: #440000;
+      }
+      table {
+        text-align: center;
+        width: 500px;
+        padding: 20px;
+        font-size: 20px;
+        color: #444444;
+        margin:30px auto 0 auto;
       }
       ul {
         padding: 0 0 0 30px;
@@ -30,10 +44,22 @@
         margin-bottom: 5px;
       }
       body {
-        padding: 15px;
+        width: 1000px;
+        padding: 20px;
+        font-size: 20px;
+        color: #444444;
+        margin: 50px auto 50px auto;
       }
-      ol {
-        padding: 0 0 0 20px;
+      div{
+        text-align: center;
+      }
+      iframe {
+        display: block;
+        width: 800px;
+        height: 400px;
+        margin: 0 auto;
+        border: 20px;
+        margin-bottom: 50px;
       }
       .Perfil {
        margin: 5px;
