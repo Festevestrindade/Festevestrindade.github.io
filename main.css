@@ -84,7 +84,7 @@ table {
 iframe {
   display: block;
   margin: 35px auto 50px auto;
-  width: 800px;
+  width: 700px;
   height: 400px;
   border: 20px;
 }
@@ -144,35 +144,17 @@ li a:hover:not(.active) {
   animation-iteration-count: 1;
 }
 
-.Perfil, .British, .Insti, .Istec, .language, .minuscode {
+.British, .Insti, .Istec, .language, .minuscode {
   display: block;
   margin: 20px auto;
   border: 20px;
+  width: 200px;
 }
 
-.British {
-  max-width: 500px;
-  height: 150px;
+.svg-table-pt{
+  width: 75px;
 }
 
-.Insti {
-  max-width: 140px;
-  height: 200px;
-}
-
-.Istec{
-  max-width: 500px;
-}
-
-.language{
-  max-width:500px;
-  height:150px;
-}
-
-.minuscode{
-  max-width:150px;
-  height:150px;
-}
 .copyright{
   font-size: 10px;
   margin-bottom: 22px;
@@ -211,16 +193,24 @@ footer{
   }
 
   iframe {
-    width: 75%;
-    height: 75%;
+    width: 90%;
+    height: 90%;
   }
   ul {
-    top: 0;
+    display: none;
+  }
+  .svgtram, .svgtram-2{
+    display: none;
   }
 
-  .Perfil, .British, .Insti, .Istec, .language, .minuscode {
+  .Perfil {
     width: 75%;
     height: 75%;
+  }
+
+  .British, .Insti, .Istec, .language, .minuscode {
+    width: 50%;
+    height: 50%;
   }
 
 }
