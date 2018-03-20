@@ -174,7 +174,6 @@ li a:hover:not(.active) {
   margin: 1vw 0; 
 }
 
-
 .Skills p{
   margin: 1vw 5vw;
   padding: 0vw 2vw;
@@ -183,11 +182,143 @@ li a:hover:not(.active) {
   background-color: white;
 }
 
+.div-digital-r{
+  display: inline-block;
+  width: 50%;
+  float: right;
+}
+
+.div-digital-l{
+  width: 45%;
+  display: inline-block;
+}
+
+.Digital-competences div{
+  margin: 1vw 0; 
+}
+
+
+.Digital-competences p{
+  margin: 1vw 7vw;
+  padding: 1vw 3vw;
+  font-size: 24px;
+  background-color: white;
+}
+
+.progressbar-l{
+  background-color: #e9e9e9;
+}
+
+.progressbar-l > div {
+ background-color: white;
+ width: 60%; 
+ height: 20px;
+}
+
+.progressbar-r{
+  background-color: #e9e9e9;
+}
+
+.progressbar-r > div {
+ background-color: white;
+ width: 60%; 
+ height: 20px;
+}
+
 .copyright{
   font-size: 10px;
   margin-bottom: 22px;
   float: right;
 }
+
+#office > div {
+ width: 75%;
+ background-color: #c7730d;
+}
+
+#lightroom > div {
+ width: 80%;
+ background-color: #0d9bd2;
+}  
+
+#windows > div {
+ width: 95%;
+ background-color: #58585b;
+}
+
+#mac > div {
+ width: 75%;
+ background-color: #cccccc;
+}  
+
+#powerpoint > div {
+ width: 95%;
+ background-color: #f09a8c;
+}
+
+#word > div {
+ width: 100%;
+ background-color: #3375ce;
+}
+
+#excel > div {
+ width: 65%;
+ background-color: #1e9811;
+}
+
+#illustrator > div {
+ width: 95%;
+ background-color: #c55121;
+}
+
+#photoshop > div {
+ width: 95%;
+ background-color: #0d9cc7;
+}
+
+#muse > div {
+ width: 70%;
+ background-color: #9ece10;
+}       
+
+#sony > div {
+ background-color: #c7216f;
+}
+
+#sql > div {
+ width: 60%;
+ background-color: #c52121;
+}
+
+#max > div {
+ width: 95%;
+ background-color: #64A698;
+}
+
+#unity > div {
+ width: 80%;
+ background-color: #58585B;
+}    
+
+#html > div {
+ width: 80%;
+ background-color: #55C5F2;
+}
+
+#css > div {
+ width: 80%;
+ background-color: #ef8f00;
+}
+
+#android > div {
+ width: 75%;
+ background-color: #6ec70d ;
+}
+
+#swift > div {
+ width: 50%;
+ background-color: #3e9fdb;
+}      
 
 footer{
   margin-top: 100px;
