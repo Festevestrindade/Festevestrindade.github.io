@@ -282,6 +282,7 @@ li a:hover:not(.active) {
 }       
 
 #sony > div {
+ width: 90%;
  background-color: #c7216f;
 }
 
