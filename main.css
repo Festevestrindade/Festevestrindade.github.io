@@ -384,4 +384,13 @@ footer{
     display: block;
   }
 
+  .div-digital-r{
+    width: 100%;
+    float: none;
+  }
+
+  .div-digital-l{
+    width: 100%;
+}
+
 }
